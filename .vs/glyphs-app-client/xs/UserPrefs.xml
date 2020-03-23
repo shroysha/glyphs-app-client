@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{AB4B2786-9557-7E6E-3BE9-832BC1FB57B8}|">
+    <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controllers/Hardware/GPSLocation.cs">
+        <Files>
+            <File FileName="Assets/Scripts/Controllers/Hardware/GPSLocation.cs" Line="2" Column="10"/>
+        </Files>
+        <Pads>
+            <Pad Id="ProjectPad">
+                <State name="__root__">
+                    <Node name="glyphs-app-client" expanded="True">
+                        <Node name="Assets" expanded="True">
+                            <Node name="MobilePaint" selected="True"/>
+                            <Node name="Scripts" expanded="True">
+                                <Node name="Controllers" expanded="True">
+                                    <Node name="Hardware" expanded="True"/>
+                                </Node>
+                            </Node>
+                        </Node>
+                        <Node name="Packages" expanded="True"/>
+                    </Node>
+                </State>
+            </Pad>
+        </Pads>
+    </MonoDevelop.Ide.Workbench>
+    <MonoDevelop.Ide.DebuggingService.PinnedWatches/>
+    <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug"/>
+    <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="72e51dbb-524c-406e-8a69-e9dcac643ac0"/>
+    <MonoDevelop.Ide.DebuggingService.Breakpoints>
+        <BreakpointStore/>
+    </MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <MultiItemStartupConfigurations/>
+</Properties>

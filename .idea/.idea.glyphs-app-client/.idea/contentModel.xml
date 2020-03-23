@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_glyphs-app-client.-1540309630.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="HSVPicker" t="Include">
+          <e p="Editor" t="Include">
+            <e p="BoxSliderEditor.cs" t="Include" />
+          </e>
+          <e p="Enums" t="Include">
+            <e p="ColorValues.cs" t="Include" />
+          </e>
+          <e p="Events" t="Include">
+            <e p="ColorChangedEvent.cs" t="Include" />
+            <e p="HSVChangedEvent.cs" t="Include" />
+          </e>
+          <e p="Other" t="Include">
+            <e p="ColorPickerTester.cs" t="Include" />
+            <e p="TiltWindow.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="ColorImage.cs" t="Include" />
+            <e p="ColorLabel.cs" t="Include" />
+            <e p="ColorPicker.cs" t="Include" />
+            <e p="ColorPresets.cs" t="Include" />
+            <e p="ColorSlider.cs" t="Include" />
+            <e p="ColorSliderImage.cs" t="Include" />
+            <e p="HexColorField.cs" t="Include" />
+            <e p="SVBoxSlider.cs" t="Include" />
+          </e>
+          <e p="UtilityScripts" t="Include">
+            <e p="BoxSlider.cs" t="Include" />
+            <e p="HSVUtil.cs" t="Include" />
+          </e>
+        </e>
+        <e p="MobilePaint" t="Include">
+          <e p="Documentation" t="Include">
+            <e p="release_notes.txt" t="Include" />
+          </e>
+          <e p="Materials" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="CanvasDefault.shader" t="Include" />
+              <e p="CanvasMaskAndAlpha.shader" t="Include" />
+              <e p="CanvasWithAlpha.shader" t="Include" />
+              <e p="CanvasWithMask.shader" t="Include" />
+              <e p="CanvasWithMask2.shader" t="Include" />
+              <e p="DecalModified.shader" t="Include" />
+              <e p="DX11" t="Include">
+                <e p="EdgeTesselation.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Brush" t="Include">
+              <e p="CloseCustomBrushDialog.cs" t="Include" />
+              <e p="CustomBrushPicker.cs" t="Include" />
+            </e>
+            <e p="Common" t="Include">
+              <e p="GUIScaler.cs" t="Include" />
+              <e p="ObjectRotator.cs" t="Include" />
+              <e p="PaintManager.cs" t="Include" />
+              <e p="PaintTools.cs" t="Include" />
+              <e p="SetSortingOrderAndLayer.cs" t="Include" />
+              <e p="TangentSolver.cs" t="Include" />
+              <e p="UPixelPerfectCamera.cs" t="Include" />
+            </e>
+            <e p="Custom" t="Include">
+              <e p="LoadImageFromDisk.cs" t="Include" />
+              <e p="LoadTextureFromWeb.cs" t="Include" />
+              <e p="OverrideTestForUI.cs" t="Include" />
+              <e p="PaintAreaEventListener.cs" t="Include" />
+              <e p="PinchZoomUnityLearn.cs" t="Include" />
+              <e p="RandomPainter.cs" t="Include" />
+              <e p="SaveImageToFile.cs" t="Include" />
+              <e p="SetNewCanvasImageExample.cs" t="Include" />
+              <e p="SetNewMaskImage.cs" t="Include" />
+            </e>
+            <e p="MobilePaint.cs" t="Include" />
+            <e p="NewUI" t="Include">
+              <e p="BrushSizeUI.cs" t="Include" />
+              <e p="ClearImageButton.cs" t="Include" />
+              <e p="ColorUIManager.cs" t="Include" />
+              <e p="CustomBrushesUI.cs" t="Include" />
+              <e p="CustomPatternsUI.cs" t="Include" />
+              <e p="ToggleBrushModeUI.cs" t="Include" />
+              <e p="ToggleCustomPatternModeUI.cs" t="Include" />
+              <e p="ToggleCustomShapeModeUI.cs" t="Include" />
+              <e p="ToggleEraserModeUI.cs" t="Include" />
+              <e p="ToggleFloodFillModeUI.cs" t="Include" />
+              <e p="ToggleLineModeUI.cs" t="Include" />
+              <e p="TogglePanZoomModeUI.cs" t="Include" />
+            </e>
+            <e p="UserInterface" t="Include">
+              <e p="AdjustBrushSize.cs" t="Include" />
+              <e p="ClearButton.cs" t="Include" />
+              <e p="CloseColorDialog.cs" t="Include" />
+              <e p="ColorPicker.cs" t="Include" />
+              <e p="CustomBrushDialog.cs" t="Include" />
+              <e p="GetStartColor.cs" t="Include" />
+              <e p="PaletteDialog.cs" t="Include" />
+              <e p="ToggleMode.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Controllers" t="Include">
+            <e p="Hardware" t="Include">
+              <e p="CloseGlyphsDownloader.cs" t="Include" />
+              <e p="DeviceCameraController.cs" t="Include" />
+              <e p="GPSLocation.cs" t="Include" />
+              <e p="HardwareController.cs" t="Include" />
+            </e>
+            <e p="Network" t="Include">
+              <e p="Authentication" t="Include">
+                <e p="Authentication.cs" t="Include" />
+                <e p="LoadLoginScreen.cs" t="Include" />
+              </e>
+              <e p="ServerCall.cs" t="Include" />
+              <e p="ServerInteract.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="ApplicationFileManager.cs" t="Include" />
+              <e p="GeneralFunctions.cs" t="Include" />
+              <e p="JsonHelper.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Model" t="Include">
+            <e p="FoundGlyphEvent.cs" t="Include" />
+            <e p="Friendship.cs" t="Include" />
+            <e p="Glyph.cs" t="Include" />
+            <e p="GlyphComment.cs" t="Include" />
+            <e p="GlyphEventInTime.cs" t="Include" />
+            <e p="LoggedInUser.cs" t="Include" />
+            <e p="OwnedGlyphEvent.cs" t="Include" />
+            <e p="SharedWithUserGlyphEvent.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+            <e p="UserSharedGlyphEvent.cs" t="Include" />
+          </e>
+          <e p="View" t="Include">
+            <e p="AddGlyph" t="Include">
+              <e p="AddGlyphContentImagePanel.cs" t="Include" />
+              <e p="AddGlyphMapBoxMinimap.cs" t="Include" />
+              <e p="LoadAddGlyphScene.cs" t="Include" />
+              <e p="LoadPaintScene.cs" t="Include" />
+              <e p="LoadTakePictureScene.cs" t="Include" />
+            </e>
+            <e p="AppStatusPanel" t="Include">
+              <e p="AppStatusPanel.cs" t="Include" />
+            </e>
+            <e p="ContentScenes" t="Include">
+              <e p="GlyphContentDisplay.cs" t="Include" />
+              <e p="LoadFoundGlyphsScene.cs" t="Include" />
+              <e p="LoadFriendsScene.cs" t="Include" />
+              <e p="LoadMyGlyphsScene.cs" t="Include" />
+              <e p="LoadSharedGlyphsScene.cs" t="Include" />
+            </e>
+            <e p="DateTimePicker" t="Include">
+              <e p="DateTimePicker.cs" t="Include" />
+              <e p="DayButton.cs" t="Include" />
+            </e>
+            <e p="GroundView" t="Include">
+              <e p="GlyphSphere.cs" t="Include" />
+              <e p="GlyphUniverse.cs" t="Include" />
+              <e p="GroundViewGlyphContentDisplay.cs" t="Include" />
+              <e p="GroundViewMapBoxMinimap.cs" t="Include" />
+              <e p="GroundViewUIController.cs" t="Include" />
+              <e p="LoadGroundViewMinimap.cs" t="Include" />
+            </e>
+            <e p="Overlays" t="Include">
+              <e p="AppDrawerOverlay.cs" t="Include" />
+              <e p="CommentsOverlay.cs" t="Include" />
+              <e p="EditProfile.cs" t="Include" />
+              <e p="GlyphSharedWithOverlay.cs" t="Include" />
+              <e p="UserProfile.cs" t="Include" />
+              <e p="UserSearch.cs" t="Include" />
+            </e>
+            <e p="ScrollableList" t="Include">
+              <e p="DateSeparator.cs" t="Include" />
+              <e p="GlyphPlaceHolder.cs" t="Include" />
+              <e p="List Items" t="Include">
+                <e p="CommentListItem.cs" t="Include" />
+                <e p="FriendListItems" t="Include">
+                  <e p="AcceptedFriendListItem.cs" t="Include" />
+                  <e p="ReceivedFriendListItem.cs" t="Include" />
+                  <e p="SentFriendListItem.cs" t="Include" />
+                </e>
+                <e p="GlyphSharedWithListItem.cs" t="Include" />
+                <e p="SearchListItem" t="Include">
+                  <e p="SearchUserIsFriendListItem.cs" t="Include" />
+                  <e p="SearchUserNotFriendListItem.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ScrollableGlyphList.cs" t="Include" />
+              <e p="ScrollableList.cs" t="Include" />
+              <e p="TypeSeparator.cs" t="Include" />
+            </e>
+            <e p="UserAvatarImage.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="glyphs-app-client.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

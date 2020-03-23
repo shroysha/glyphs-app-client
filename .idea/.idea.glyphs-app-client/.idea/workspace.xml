@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83f234c5-238d-473e-95f6-7d8b079a7427" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../archive/digitalclock/src/main/java/dev/shroysha/digitalclock/controllers/DigitalClockController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/digitalclock/src/main/java/dev/shroysha/digitalclock/model/DigitalClockDomino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/digitalclock/src/main/java/dev/shroysha/digitalclock/views/DigitalClockFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/Sentence3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter2/FaceComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter2/NameComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/BarChartComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/Bug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/CarComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/CashRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/RoachPopulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/Balloon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/DataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter5/Paycheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/FileCounter2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/FileCounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter13/DataSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter13/DiskMoverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter13/Sentence3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter3/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter4/BalloonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter4/DataSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter5/DataSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter5/GradeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter5/PaycheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter5/QuadraticEquationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter6/CompressorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter6/PowerGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter6/RootApproximateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-pdfscrapper/src/main/java/dev/shroysha/ap/pdfscrapper/model/PdfScrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/ap-readability/src/main/java/dev/shroysha/ap/readability/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/honors-jpaint/src/main/java/dev/shroysha/honors/jpaint/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../archive/school/honors-jpaint/src/main/java/dev/shroysha/honors/jpaint/view/JPaintFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/Py2048Gym-v0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/dev.shroysha.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/py2048game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_2048/tox.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_stocks/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_stocks/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_stocks/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_stocks/dev.shroysha.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../py/openaigym_stocks/tox.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/digitalclock/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/digitalclock/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/digitalclock/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/digitalclock/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/digitalclock/src/main/java/dev/shroysha/widgets/clock/ClockWidgetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/digitalclock/src/main/java/dev/shroysha/digitalclock/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/facebookrss/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/facebookrss/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/facebookrss/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/facebookrss/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/widgets/facebookrss/controller/FacebookRSSReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/facebookrss/controller/FacebookRssReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/widgets/facebookrss/controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/facebookrss/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/widgets/facebookrss/model/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/facebookrss/model/FacebookRssNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/widgets/facebookrss/model/NotificationsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/facebookrss/view/FacebookRssNotificationsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/widgets/facebookrss/view/LogInScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/facebookrss/view/FacebookRssLogInDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/widgets/facebookrss/view/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/facebookrss/src/main/java/dev/shroysha/facebookrss/view/FacebookRssFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/dev.shroysha.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/lombok.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/src/main/java/dev/shroysha/widgets/gmail/GmailWidgetMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/src/main/java/dev/shroysha/widgets/gmail/controller/DragTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/src/main/java/dev/shroysha/widgets/gmail/controller/EmailTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/src/main/java/dev/shroysha/widgets/gmail/controller/RootTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/src/main/java/dev/shroysha/widgets/gmail/view/DragDropList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/src/main/java/dev/shroysha/widgets/gmail/view/GridBagPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/src/main/java/dev/shroysha/widgets/gmail/view/MyCellRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/gmail/src/main/java/dev/shroysha/widgets/gmail/view/ReorderableJList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/googler/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/googler/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/hiddenfiletoggle/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/hiddenfiletoggle/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/controller/MediaServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/controller/MediaServerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/controller/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/controller/MediaServerNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/Plugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/MediaServerPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/NetflixPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/MediaServerNetflixPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/PicturePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/MediaServerPicturePlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/QuitPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/MediaServerQuitPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/SettingsPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/MediaServerSettingsPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/VideoPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/model/plugins/MediaServerVideoPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/view/MediaServerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/view/MediaServerFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/view/PluginTitlePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mediaserver/src/main/java/dev/shroysha/widgets/mediaserver/view/MediaServerTitlePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mp3rename/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/dev/shroysha/widgets/mp3rename/controller/MP3Renamer.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/dev/shroysha/widgets/mp3rename/controller/MP3Renamer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/dev/shroysha/widgets/mp3rename/controller/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/dev/shroysha/widgets/mp3rename/controller/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/dev/shroysha/widgets/mp3rename/view/MainFrame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/dev/shroysha/widgets/mp3rename/view/MainFrame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mp3rename/docs/javadoc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/src/main/java/dev/shroysha/widgets/mp3rename/controller/MP3Renamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mp3rename/src/main/java/dev/shroysha/widgets/mp3rename/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/src/main/java/dev/shroysha/widgets/mp3rename/controller/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/mp3rename/src/main/java/dev/shroysha/widgets/mp3rename/view/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/mp3rename/src/main/java/dev/shroysha/widgets/mp3rename/view/Mp3RenameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/passwordbank/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/passwordbank/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter1/FacePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter1/FacePrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/BabyNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/BabyNamesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/CityTemps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/CityTempsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/CopyFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/DataReaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/FileCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/FileCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/FileCounter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/FileCounter2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/FindInFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/FindInFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/ReverserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter11/ReverserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter11/TabExpanderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/DataSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/DataSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/DiskMover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/DiskMover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/SentenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter13/SentenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/SentenceTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter13/Sentence2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/SentenceTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter13/SumDataSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter13/SumDataSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter2/AreaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter2/AreaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter2/BrighterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter2/BrighterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter2/FaceViewerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter2/FaceComponentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter2/NameViewerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter2/NameComponentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter2/ReplacementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter2/ReplacementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/BankAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/BarChartViewerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter3/BarChartComponentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/BugTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter3/BugTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/CarViewerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter3/CarComponentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/CashRegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter3/CashRegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter3/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/RoachSimulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter3/RoachPopulationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter3/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter3/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/BalloonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/CashRegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter4/CashRegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/DataSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/DigitExtractorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter4/DigitExtractorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/LocationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter4/LocationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/TimerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter4/TimerTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter4/TimerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter5/DataSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter5/DataSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter5/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter5/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter5/PayCheckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter5/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter5/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/CannonballTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter6/CannonballTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/Compressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/DartSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/DartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter6/DartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/HighestTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/test/java/dev/shroysha/ap/chapterproblems/chapter6/HighestTemperatureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/PowerGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/PowerGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/RootApproximator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/RootApproximate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-chapterproblems/src/main/java/dev/shroysha/ap/chapterproblems/chapter6/RootCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-directoryspam/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-directoryspam/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-directoryspam/dev.shroysha.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-directoryspam/lombok.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-directoryspam/src/main/java/dev/shroysha/ap/directoryspam/DirectorySpamMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-ocspdfscrapper/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-ocspdfscrapper/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-ocspdfscrapper/dev.shroysha.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-ocspdfscrapper/lombok.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-ocspdfscrapper/src/main/java/dev/shroysha/ap/ocspdfscrapper/OcsPdfScrapperMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-pendulum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-pendulum/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-pendulum/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-pendulum/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-pendulum/src/main/java/dev/shroysha/ap/pendulum/PendulumMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-pendulum/src/main/java/dev/shroysha/ap/pendulum/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-readability/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-readability/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-readability/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-readability/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-readability/src/main/java/dev/shroysha/ap/readability/view/ReadabilityFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-readability/src/main/java/dev/shroysha/ap/readability/view/ReadabilityFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-robocode/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-robocode/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-robocode/src/main/java/dev/shroysha/ap/robocode/myrobos/BestBotEver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-robocode/src/main/java/dev/shroysha/ap/robocode/BestBotEver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-robocode/src/main/java/dev/shroysha/ap/robocode/myrobos/Dextroser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-robocode/src/main/java/dev/shroysha/ap/robocode/Dextroser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-robocode/src/main/java/dev/shroysha/ap/robocode/myrobos/DougieBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/ap-robocode/src/main/java/dev/shroysha/ap/robocode/DougieBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-robocode/src/main/java/dev/shroysha/ap/robocode/sample/Gamma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/ap-robocode/src/main/java/dev/shroysha/ap/robocode/sample/WallKiller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-firstquadrantgraph/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-firstquadrantgraph/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-firstquadrantgraph/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-firstquadrantgraph/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-firstquadrantgraph/src/main/java/dev/shroysha/honors/firstquadrantgraph/controller/FirstQuadrantGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-firstquadrantgraph/src/main/java/dev/shroysha/honors/firstquadrantgraph/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-firstquadrantgraph/src/main/java/dev/shroysha/honors/firstquadrantgraph/view/GraphingPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-firstquadrantgraph/src/main/java/dev/shroysha/honors/firstquadrantgraph/view/FirstQuadrantGraphFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-graphingpanel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-graphing/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-graphingpanel/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-graphing/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-graphingpanel/dev.shroysha.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-graphing/dev.shroysha.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-graphingpanel/lombok.config" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-graphing/lombok.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-graphingpanel/src/main/java/dev/shroysha/honors/graphingpanel/controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-graphing/src/main/java/dev/shroysha/honors/graphing/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-graphingpanel/src/main/java/dev/shroysha/honors/graphingpanel/view/GraphingPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-graphing/src/main/java/dev/shroysha/honors/graphing/view/GraphingPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-jpaint/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-jpaint/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-jpaint/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-jpaint/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-jpaint/src/main/java/dev/shroysha/honors/jpaint/controller/JPaint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-jpaint/src/main/java/dev/shroysha/honors/jpaint/view/ImagePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-jpaint/src/main/java/dev/shroysha/honors/jpaint/view/JPaintImagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-jpaint/src/main/java/dev/shroysha/honors/jpaint/view/ToolPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-jpaint/src/main/java/dev/shroysha/honors/jpaint/view/JPaintToolPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-loopexamples/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/honors-loopexamples/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/honors-loopexamples/src/main/java/dev/shroysha/honors/loopexamples/LoopExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/psu-personal-site/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/psu-personal-site/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/school/psu-sociology-site/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/school/psu-sociology-site/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/yahooweather/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/yahooweather/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../archive/yahooweather/src/main/java/dev/shroysha/widgets/weather/WeatherWidgetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../archive/yahooweather/src/main/java/dev/shroysha/widgets/weather/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../buildSrc/lombok.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../buildSrc/src/main/groovy/dev/shroysha/buildSrc/DevShroyshaTask.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../../buildSrc/src/main/groovy/dev/shroysha/buildSrc/DevShroyshaTask.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../buildSrc/src/main/groovy/dev/shroysha/buildSrc/DevShroyshaTaskExtension.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../../buildSrc/src/main/groovy/dev/shroysha/buildSrc/DevShroyshaTaskExtension.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chatroom/chatroom-app-client/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chatroom/chatroom-app-client/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chatroom/chatroom-ejb/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chatroom/chatroom-ejb/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chatroom/chatroom-war/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chatroom/chatroom-war/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control-computer/control-computer-app-client/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../control-computer/control-computer-app-client/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control-computer/control-computer-ejb/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../control-computer/control-computer-ejb/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control-computer/control-computer-war/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../control-computer/control-computer-war/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../control-projector/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../control-projector/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glyphs-app-client.sln" beforeDir="false" afterPath="$PROJECT_DIR$/glyphs-app-client.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../glyphs-ejb/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../glyphs-ejb/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../glyphs-war/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../glyphs-war/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../glyphs-war/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../glyphs-war/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/pokemon-app-client/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/pokemon-app-client/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/pokemon-ejb/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/pokemon-ejb/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/pokemon-war/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/pokemon-war/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pong/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../pong/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pong/src/main/groovy/dev/shroysha/pong/model/PongGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../pong/src/main/groovy/dev/shroysha/pong/model/PongGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pong/src/main/groovy/dev/shroysha/pong/model/PongPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../pong/src/main/groovy/dev/shroysha/pong/model/PongPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../py/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/gmod_math/docs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/gmod_math/docs/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/gmod_math/docs/source/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/gmod_math/docs/source/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/Py2048Gym-v0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/dev.shroysha.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/py2048game/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_2048/tox.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_stocks/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_stocks/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_stocks/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_stocks/dev.shroysha.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/openaigym/openaigym_stocks/tox.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-app-client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-app-client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-app-client/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-app-client/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-app-client/src/main/java/dev/shroysha/scada/app/client/controller/DummyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-app-client/src/test/java/dev/shroysha/scada/app/client/DummyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-app-client/src/main/java/dev/shroysha/scada/app/client/controller/ScadaTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-app-client/src/test/java/dev/shroysha/scada/app/client/ScadaTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-ejb/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-ejb/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/NotificationSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/NotificationSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/ShutdownSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/ShutdownSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/alert/AlertMonitoringSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/alert/AlertMonitoringSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/alert/OnDutyNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/alert/OnDutyNotifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/email/EmailSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/email/EmailSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/modem/PageWithModem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/modem/PageWithModem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/pager/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/pager/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/pager/PagingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/notify/pager/PagingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/util/AlertListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/model/AlertListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/util/LogListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/model/LogListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/util/ScadaUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/util/ScadaUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/util/ServerProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/util/ServerProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/util/Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/util/UpdateListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/model/UpdateListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/model/EmployeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/controller/EmployeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/model/Pin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/view/EmployeePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/view/EmployeePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/view/NotificationSystemPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/view/NotificationSystemPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/view/ServerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/view/ServerGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/view/SettingsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../scada/scada-war/src/main/groovy/dev/shroysha/scada/war/view/SettingsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/Hardware/CloseGlyphsDownloader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HSVPicker/UI/ColorLabel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/HSVPicker/UI/ColorLabel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5fLzo8tHn0vw2DsBzvDW1IbbO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83f234c5-238d-473e-95f6-7d8b079a7427" name="Default Changelist" comment="" />
+      <created>1580340826706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580340826706</updated>
+      <workItem from="1580340839402" duration="60000" />
+      <workItem from="1581022597530" duration="204000" />
+      <workItem from="1581024950809" duration="48000" />
+      <workItem from="1583873434213" duration="763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="132" key="SettingsEditor" timestamp="1583873458646">
+      <screen x="0" y="22" width="1680" height="942" />
+    </state>
+    <state x="349" y="132" key="SettingsEditor/0.22.1680.942@0.22.1680.942" timestamp="1583873458646" />
+  </component>
+</project>
